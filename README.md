@@ -4,13 +4,6 @@
   🎓 Engenharia de Software • PUC-Campinas <br>
   💻 Desenvolvedor Full Stack & IA <br>
 </p>
-
-<p align="center">
-  <a href="https://github.com/enzoplens">
-    <img src="https://komarev.com/ghpvc/?username=enzoplens&label=Visualizações&color=0e75b6&style=flat" />
-  </a>
-</p>
-
 ---
 
 # 😼 Sobre Mim
@@ -93,9 +86,4 @@ Projetos relacionados a:
 
 </div>
 
-<a href="SEU_LINK_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-</p>
 
