@@ -19,7 +19,6 @@ Atualmente tenho interesse em:
 - 🌐 Desenvolvimento Full Stack
 - 📊 Ciência de Dados
 - 🛠 Engenharia de Software
-- 🎮 Projetos voltados para games e entretenimento
 - 🚀 Arquitetura e desenvolvimento de sistemas
 
 ---
