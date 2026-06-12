@@ -1,101 +1,122 @@
 <h1 align="center">Olá, eu sou o Enzo 👋</h1>
 
 <p align="center">
-  💻 Estudante de Ciência da Computação <br>
-  🚀 Desenvolvedor Full Stack & IA <br>
-  🎮 Criador do Checkpoint <br>
-  📍 Brasil
+  🎓 Engenharia de Software • PUC-Campinas <br>
+  💻 Desenvolvedor Full Stack & IA <br>
+  🚀 Transformando ideias em projetos reais
+</p>
+
+<p align="center">
+  <a href="https://github.com/enzoplens">
+    <img src="https://komarev.com/ghpvc/?username=enzoplens&label=Visualizações&color=0e75b6&style=flat" />
+  </a>
 </p>
 
 ---
 
-## 🚀 Sobre Mim
+# 😼 Sobre Mim
 
-Sou estudante de Ciência da Computação apaixonado por tecnologia, desenvolvimento de software e inteligência artificial.
+Sou estudante de Engenharia de Software na PUC-Campinas e apaixonado por tecnologia, desenvolvimento de software e inteligência artificial.
 
-Gosto de transformar ideias em projetos reais, desde aplicações web até ferramentas baseadas em IA. Atualmente estou focado em aprender cada vez mais sobre desenvolvimento full stack, machine learning e arquitetura de software.
+Gosto de transformar ideias em projetos reais, desde aplicações web até ferramentas baseadas em IA. Estou sempre buscando aprender novas tecnologias, desenvolver soluções criativas e evoluir minhas habilidades como desenvolvedor.
 
-- 🎓 Ciência da Computação
-- 🤖 Inteligência Artificial
-- 🌐 Desenvolvimento Web
+Atualmente tenho interesse em:
+
+- 🤖 Inteligência Artificial e Machine Learning
+- 🌐 Desenvolvimento Full Stack
 - 📊 Ciência de Dados
-- 🎮 Entusiasta de Games
+- 🛠 Engenharia de Software
+- 🎮 Projetos voltados para games e entretenimento
+- 🚀 Arquitetura e desenvolvimento de sistemas
 
 ---
 
-## 🛠️ Tecnologias
+# 🛠️ Tecnologias
 
 ### Linguagens
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,java,html,css" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" />
 </p>
 
-### Frameworks & Ferramentas
+### Frameworks e Ferramentas
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,git,github,vscode,mysql,mongodb" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mysql,mongodb,git,github,vscode" />
 </p>
 
-### IA & Dados
+### Inteligência Artificial & Dados
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 </p>
 
 ---
 
-## 📈 Estatísticas
+# 📈 Estatísticas GitHub
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=enzoplens&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=enzoplens&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzoplens&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzoplens&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🔥 Sequência de Contribuições
+# 🔥 Contribuições
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=enzoplens&theme=tokyonight"/>
-</p>
+<div align="center">
 
----
+<img src="https://streak-stats.demolab.com?user=enzoplens&theme=tokyonight&hide_border=true"/>
 
-## 🚧 Projetos em Destaque
-
-### 🎮 Checkpoint
-Plataforma inspirada no Letterboxd, mas voltada para jogos.
-
-### 🤖 Bias Detector
-Ferramenta de IA para identificação de vieses em textos.
-
-### 📚 Projetos Acadêmicos
-Machine Learning, Data Science e Engenharia de Software.
+</div>
 
 ---
 
-## 🌎 Onde me encontrar
+# 🏆 Conquistas
 
-<p>
-  <a href="https://github.com/enzoplens">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-  </a>
-  
-  <a href="https://www.linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
-  </a>
-</p>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=enzoplens&theme=tokyonight&no-frame=true&margin-w=15"/>
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=enzoplens&color=blueviolet">
+Projetos relacionados a:
+
+- Engenharia de Software
+- Inteligência Artificial
+- Machine Learning
+- Ciência de Dados
+- Desenvolvimento Web
+- Gerenciamento de Projetos
+
+---
+
+# 📊 Gráfico de Atividade
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=enzoplens&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🌎 Conecte-se Comigo
+
+<p align="left">
+
+<a href="https://github.com/enzoplens">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="SEU_LINK_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
 </p>
 
-<p align="center">
-  <i>"Sempre aprendendo algo novo e construindo projetos que resolvem problemas reais."</i>
-</p>
