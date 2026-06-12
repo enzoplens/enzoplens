@@ -2,7 +2,7 @@
 
 <p align="center">
   🎓 Engenharia de Software • PUC-Campinas <br>
-  💻 Desenvolvedor Full Stack & IA <br>
+  💻 Desenvolvedor Full Stack <br>
 </p>
 
 ---
