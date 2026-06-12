@@ -2,7 +2,7 @@
 
 <p align="center">
   🎓 Engenharia de Software • PUC-Campinas <br>
-  💻 Desenvolvedor Full Stack <br>
+  💻 Desenvolvedor Full Stack
 </p>
 
 ---
@@ -25,56 +25,21 @@ Atualmente tenho interesse em:
 
 # 🛠️ Tecnologias
 
-### Linguagens
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" />
-</p>
-
-### Frameworks e Ferramentas
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mysql,mongodb,git,github,vscode" />
-</p>
-
-### Inteligência Artificial & Dados
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,react,nodejs,mysql,mongodb,git,github,vscode,tensorflow,pytorch" />
 </p>
 
 ---
 
 # 📈 Estatísticas GitHub
 
-<div align="center">
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=enzoplens&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=enzoplens&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzoplens&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzoplens&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 Contribuições
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=enzoplens&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-Projetos relacionados a:
-
-- Engenharia de Software
-- Inteligência Artificial
-- Machine Learning
-- Ciência de Dados
-- Desenvolvimento Web
-- Gerenciamento de Projetos
+  <img height="150em" src="https://streak-stats.demolab.com?user=enzoplens&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
@@ -85,5 +50,3 @@ Projetos relacionados a:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=enzoplens&theme=tokyo-night&hide_border=true"/>
 
 </div>
-
-
