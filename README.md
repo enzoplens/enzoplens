@@ -74,16 +74,6 @@ Atualmente tenho interesse em:
 
 ---
 
-# 🏆 Conquistas
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=enzoplens&theme=tokyonight&no-frame=true&margin-w=15"/>
-
-</div>
-
----
-
 Projetos relacionados a:
 
 - Engenharia de Software
@@ -102,16 +92,6 @@ Projetos relacionados a:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=enzoplens&theme=tokyo-night&hide_border=true"/>
 
 </div>
-
----
-
-# 🌎 Conecte-se Comigo
-
-<p align="left">
-
-<a href="https://github.com/enzoplens">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
 
 <a href="SEU_LINK_LINKEDIN">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
