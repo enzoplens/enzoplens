@@ -1,5 +1,3 @@
-<h1 align="center">Olá, eu sou o Enzo 👋</h1>
-
 <p align="center">
   🎓 Engenharia de Software • PUC-Campinas <br>
   💻 Desenvolvedor Full Stack
