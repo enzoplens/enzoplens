@@ -14,7 +14,6 @@ Gosto de transformar ideias em projetos reais, desde aplicações web até ferra
 Atualmente tenho interesse em:
 
 - Inteligência Artificial e Machine Learning
-- Desenvolvimento Full Stack
 - Ciência de Dados
 - Engenharia de Software
 - Arquitetura e desenvolvimento de sistemas
