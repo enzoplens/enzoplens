@@ -5,7 +5,7 @@
 
 ---
 
-## 😼 Sobre Mim
+##Sobre Mim
 
 Sou estudante de Engenharia de Software na PUC-Campinas e apaixonado por tecnologia, desenvolvimento de software e inteligência artificial.
 
@@ -13,15 +13,15 @@ Gosto de transformar ideias em projetos reais, desde aplicações web até ferra
 
 Atualmente tenho interesse em:
 
-- 🤖 Inteligência Artificial e Machine Learning
-- 🌐 Desenvolvimento Full Stack
-- 📊 Ciência de Dados
-- 🛠 Engenharia de Software
-- 🚀 Arquitetura e desenvolvimento de sistemas
+- Inteligência Artificial e Machine Learning
+- Desenvolvimento Full Stack
+- Ciência de Dados
+- Engenharia de Software
+- Arquitetura e desenvolvimento de sistemas
 
 ---
 
-## 🛠️ Tecnologias
+##Tecnologias
 
 **Linguagens**
 
@@ -43,7 +43,7 @@ Atualmente tenho interesse em:
 
 ---
 
-## 📈 Estatísticas GitHub
+##Estatísticas GitHub
 
 <div align="center">
 
@@ -55,7 +55,7 @@ Atualmente tenho interesse em:
 
 ---
 
-## 🔥 Contribuições
+##Contribuições
 
 <div align="center">
 
@@ -65,7 +65,7 @@ Atualmente tenho interesse em:
 
 ---
 
-## 📊 Gráfico de Atividade
+##Gráfico de Atividade
 
 <div align="center">
 
