@@ -5,7 +5,7 @@
 
 ---
 
-##Sobre Mim
+## Sobre Mim
 
 Sou estudante de Engenharia de Software na PUC-Campinas e apaixonado por tecnologia, desenvolvimento de software e inteligência artificial.
 
@@ -21,7 +21,7 @@ Atualmente tenho interesse em:
 
 ---
 
-##Tecnologias
+## Tecnologias
 
 **Linguagens**
 
@@ -43,7 +43,7 @@ Atualmente tenho interesse em:
 
 ---
 
-##Estatísticas GitHub
+## Estatísticas GitHub
 
 <div align="center">
 
@@ -55,7 +55,7 @@ Atualmente tenho interesse em:
 
 ---
 
-##Contribuições
+## Contribuições
 
 <div align="center">
 
@@ -65,7 +65,7 @@ Atualmente tenho interesse em:
 
 ---
 
-##Gráfico de Atividade
+## Gráfico de Atividade
 
 <div align="center">
 
